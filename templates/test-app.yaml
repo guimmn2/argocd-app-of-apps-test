@@ -12,6 +12,6 @@ spec:
       selfHeal: true
   project: default
   source:
-    path: test-app
+    path: ./test-app
     repoURL: https://github.com/guimmn2/argocd-app-of-apps-test
     targetRevision: HEAD

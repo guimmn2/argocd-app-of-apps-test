@@ -12,8 +12,8 @@ spec:
       prune: true
       selfHeal: true
   source:
-    path: apps
-    repoURL: https://atc-github.azure.cloud.bmw/qxz59pp/argo-app-of-apps-test
+    path: templates 
+    repoURL: https://github.com/guimmn2/argocd-app-of-apps-test
     targetRevision: HEAD
   project: default
 
