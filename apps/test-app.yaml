@@ -13,5 +13,5 @@ spec:
   project: default
   source:
     path: test-app
-    repoURL: https://atc-github.azure.cloud.bmw/qxz59pp/argo-app-of-apps-test
+    repoURL: https://github.com/guimmn2/argocd-app-of-apps-test
     targetRevision: HEAD
